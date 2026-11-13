@@ -1,0 +1,11 @@
+checkout_id,device,payment_method,cart_value,status
+1001,Mobile,UPI,1299,Success
+1002,Desktop,Card,2499,Failed
+1003,Mobile,COD,899,Abandoned
+1004,Mobile,UPI,1599,Success
+1005,Desktop,Card,1999,Success
+1006,Mobile,UPI,799,Failed
+1007,Mobile,COD,1199,Success
+1008,Desktop,UPI,2299,Abandoned
+1009,Mobile,Card,999,Success
+1010,Mobile,UPI,1799,Failed
